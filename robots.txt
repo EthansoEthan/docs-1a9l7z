@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mkvtz3.cuankita.space/sitemap.xml
